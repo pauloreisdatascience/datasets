@@ -1,3 +1,7 @@
+Entity Relationship Diagram:
+
+![img](https://raw.githubusercontent.com/pauloreisdatascience/datasets/main/e_market/entity_relationship_diagram.JPG)
+
 ### Metadata:
 
 Order ID: Transaction ID.
